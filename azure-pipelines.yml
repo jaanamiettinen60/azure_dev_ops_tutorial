@@ -2,9 +2,6 @@ variables:
   ConnectedServiceName: 'ARM - Development (Production Account)'
   WebAppName: 'testJane'
 
-variables:
-  ConnectedServiceName: '<your-service-connection>'
-  WebAppName: '<your-appservice>'
 
 trigger:
 - master
