@@ -17,3 +17,7 @@ steps:
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
+
+variables:
+  ConnectedServiceName: 'ARM - Development (Production Account)'
+  WebAppName: 'testJane'
